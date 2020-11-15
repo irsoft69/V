@@ -1,0 +1,11 @@
+            18          0.018ms            984ns new_array_from_c_array 
+             5          0.000ms             33ns array_get 
+             1          0.022ms          22473ns println 
+            18          0.001ms             31ns vcalloc 
+             1          0.008ms           8095ns builtin_init 
+             1          0.000ms             33ns vstrlen 
+             1          0.000ms             46ns tos2 
+             7          0.002ms            225ns tos_lit 
+             1          0.000ms             40ns time__init_time_base 
+             1          0.000ms             33ns math__sqrt 
+             1          0.003ms           3070ns linearrelationship 
