@@ -1,0 +1,14 @@
+            16          0.018ms           1103ns new_array_from_c_array 
+            16          0.000ms             31ns vcalloc 
+             1          0.008ms           8263ns builtin_init 
+             2          0.020ms           9868ns println 
+             1          0.000ms             33ns vstrlen 
+             1          0.000ms             38ns tos2 
+             6          0.002ms            294ns tos3 
+             1          0.000ms             33ns time__new_stopwatch 
+             1          0.000ms             53ns time__StopWatch_elapsed 
+             1          0.000ms             31ns time__Duration_nanoseconds 
+             1          0.000ms             49ns time__init_time_base 
+             2          0.000ms             54ns time__sys_mono_now_darwin 
+             2          0.000ms             32ns time__sys_mono_now 
+             1          0.020ms          19563ns mymodule__say_hi 
